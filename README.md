@@ -1,6 +1,5 @@
 # Chemistry Teacher, Choi Won-Keun 👋
-### Coding beginner
-### An eager beaver
+## Coding beginner & An eager beaver
 
 #### 🌱 I’m currently learning
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
